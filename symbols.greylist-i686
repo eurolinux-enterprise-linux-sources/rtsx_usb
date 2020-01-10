@@ -1,0 +1,6 @@
+mfd_add_devices
+mfd_remove_devices
+usb_sg_cancel
+usb_sg_init
+usb_sg_wait
+usleep_range
