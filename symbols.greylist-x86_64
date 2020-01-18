@@ -1,0 +1,15 @@
+devm_kmalloc
+__fentry__
+mfd_add_devices
+mfd_remove_devices
+__stack_chk_fail
+usb_alloc_coherent
+usb_bulk_msg
+usb_control_msg
+usb_deregister
+usb_enable_autosuspend
+usb_free_coherent
+usb_register_driver
+usb_sg_cancel
+usb_sg_init
+usb_sg_wait
